@@ -1,0 +1,4 @@
+build/iphone/*
+build/android/*
+.DS_Store
+.settings/

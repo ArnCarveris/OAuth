@@ -1,0 +1,8 @@
+#appname:oAuth
+#publisher:ArnCarver
+#url:https://github.com/ArnCarver
+#image:appicon.png
+#appid:com.tercry.oauth
+#desc:OAuth implementation for Titanium Mobile with tree consumers
+#type:ipad
+#guid:d5b2640c-a1e2-4875-8d7f-55430e8624b8

@@ -1,0 +1,19 @@
+Welcome to OAuth module implementation for Appcelerator's Titanium Mobile
+
+This is a sample project wich show's how to use OAuth in Titanium.
+
+Important: When using Google cosummer the 'oauth_callback' parameter must be equal to empty string.
+
+
+
+----------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+
